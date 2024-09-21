@@ -10,7 +10,7 @@
 
 3. **Clone the Repository**: To clone the Xlarcys Toolkit GitHub repository, type the following command in the terminal:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   https://github.com/Xlarcys01/InfiltrateX.git
    ```
    (Replace `username` and `repo-name` with your own repository information.)
 
@@ -23,11 +23,11 @@
 5. **Run the Toolkit**:
    - Navigate to the cloned directory:
    ```bash
-   cd repo-name
+   cd infiltratex - made by xlarcys/
    ```
    - To run the main script:
    ```bash
-   python3 main.py
+   sudo python3 infiltratex.py
    ```
 
 6. **Using the Tool**:
@@ -35,5 +35,3 @@
    - Enter the relevant URLs and proceed with the actions.
 
 7. **Developer Note**: Always remember to use this tool ethically. Make sure to obtain permission before conducting tests.
-
-These steps explain how to install and use the Xlarcys Toolkit on Kali Linux. If you encounter any issues, refer to the documentation or the GitHub page.
