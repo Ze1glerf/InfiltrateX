@@ -10,20 +10,19 @@
 
 3. **Clone the Repository**: To clone the Xlarcys Toolkit GitHub repository, type the following command in the terminal:
    ```bash
-   https://github.com/Xlarcys01/InfiltrateX.git
+   git clone https://github.com/Xlarcys01/InfiltrateX.git
    ```
-   (Replace `username` and `repo-name` with your own repository information.)
 
 4. **Install Requirements**: To install Python and the required libraries, use these commands:
    ```bash
    sudo apt-get install python3
-   pip3 install requests beautifulsoup4
+   pip3 install -r requirements.txt
    ```
 
 5. **Run the Toolkit**:
    - Navigate to the cloned directory:
    ```bash
-   cd infiltratex - made by xlarcys/
+   cd InfiltrateX  # Ensure the correct path
    ```
    - To run the main script:
    ```bash
