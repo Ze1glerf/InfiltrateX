@@ -1,4 +1,4 @@
-### How to Download and Use Xlarcys Toolkit on Kali Linux
+### How to Download 
 
 1. **Open Kali Linux**: Boot your system and open the Kali Linux terminal.
 
@@ -10,7 +10,7 @@
 
 3. **Clone the Repository**: To clone the Xlarcys Toolkit GitHub repository, type the following command in the terminal:
    ```bash
-   git clone https://github.com/Xlarcys01/InfiltrateX.git
+   git clone https://github.com/Ze1glerf/InfiltrateX.git
    ```
 
 4. **Install Requirements**: To install Python and the required libraries, use these commands:
