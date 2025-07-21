@@ -8,7 +8,7 @@
    sudo apt-get install git
    ```
 
-3. **Clone the Repository**: To clone the Xlarcys Toolkit GitHub repository, type the following command in the terminal:
+3. **Clone the Repository**: To clone the Ze1glerf Toolkit GitHub repository, type the following command in the terminal:
    ```bash
    git clone https://github.com/Ze1glerf/InfiltrateX.git
    ```
